@@ -10,3 +10,7 @@
 [“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 [“Russia”, “Denmark”, “Kazan”] → []
+
+# Блок-схема
+![Блок-схема](https://user-images.githubusercontent.com/120661455/212948314-6609b39a-fc4f-4d61-ac5d-f0cf6f37fe58.png)
+

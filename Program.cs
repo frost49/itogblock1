@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Vfccbd rfrjq lkbyys? ");
+﻿Console.WriteLine("какой длинны массив нужен? ");
 int size  = int.Parse(Console.ReadLine()!);
 
 string[] arr1 = new string[size];

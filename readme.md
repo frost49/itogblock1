@@ -12,6 +12,10 @@
 [“Russia”, “Denmark”, “Kazan”] → []
 
 # Блок-схема
+
+добавил через сайт
 ![Блок-схема](https://user-images.githubusercontent.com/120661455/212948314-6609b39a-fc4f-4d61-ac5d-f0cf6f37fe58.png)
 
+
+добавил через vs code
 ![попробуте снова](diagramma.png)

@@ -22,7 +22,7 @@ for (int i = 0; i < arr1.Length; i++){
 	}   
 }
 Console.WriteLine();
-Console.Write("fjdhsf uudhfh saejdhd : [");
+Console.Write("массивы длина меньше трех символов : [");
 string[] arr2 = new string[count];
 int j = 0;
 for (int i = 0; i < arr1.Length; i++){

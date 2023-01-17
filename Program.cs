@@ -22,7 +22,7 @@ for (int i = 0; i < arr1.Length; i++){
 	}   
 }
 Console.WriteLine();
-Console.Write("Полученный массив из строк, длина которых меньше либо равна трём символам: [");
+Console.Write("fjdhsf uudhfh saejdhd : [");
 string[] arr2 = new string[count];
 int j = 0;
 for (int i = 0; i < arr1.Length; i++){

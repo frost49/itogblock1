@@ -4,7 +4,7 @@ int size  = int.Parse(Console.ReadLine()!);
 string[] arr1 = new string[size];
 
 for (int i = 0; i < size; i++){
-	Console.Write("'ktvtyn vfccbdf: ");
+	Console.Write("элемент массива ");
     string result = Console.ReadLine();
 	arr1[i] = result;  
 }
